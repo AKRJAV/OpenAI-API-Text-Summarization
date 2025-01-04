@@ -124,7 +124,7 @@ if __name__ == "__main__":
         print(summary)
     else:
         print("Failed to read the document. Please check the file path.")
-
+```
 ### Example Input
 Artificial Intelligence (AI) refers to the field of computer science dedicated to building systems capable of performing tasks that would typically require human intelligence. These tasks include reasoning, learning, problem-solving, perception, and language understanding.AI encompasses various subfields like machine learning (ML), where systems learn from data to improve performance over time, and deep learning, a subset of ML that uses neural networks to model complex patterns. AI is used in a wide range of applications, from virtual assistants and autonomous vehicles to medical diagnostics and robotics.The potential of AI is vast, revolutionizing industries such as healthcare, finance, and manufacturing. However, AI also raises concerns around ethics, job displacement, and privacy, prompting ongoing discussions about its responsible development and use.
 
