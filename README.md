@@ -1,4 +1,4 @@
-# OpenAI-API-Text-Summarization
+# OpenAI API Text-Summarization
 
 # Document Summarizer
 
