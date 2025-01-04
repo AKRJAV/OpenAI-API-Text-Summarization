@@ -51,14 +51,11 @@ You need an OpenAI API key to use the model. You can obtain it by signing up on 
    The script will read the document, summarize its content, and print the summary to the terminal.
 
 ### Example Input
-```plaintext
 Artificial Intelligence (AI) refers to the field of computer science dedicated to building systems capable of performing tasks that would typically require human intelligence. These tasks include reasoning, learning, problem-solving, perception, and language understanding.AI encompasses various subfields like machine learning (ML), where systems learn from data to improve performance over time, and deep learning, a subset of ML that uses neural networks to model complex patterns. AI is used in a wide range of applications, from virtual assistants and autonomous vehicles to medical diagnostics and robotics.The potential of AI is vast, revolutionizing industries such as healthcare, finance, and manufacturing. However, AI also raises concerns around ethics, job displacement, and privacy, prompting ongoing discussions about its responsible development and use.
 
 
 ### Example Output
-
-```plaintext
 Summarizing the document...
 
 Summary:
-Artificial Intelligence (AI) is a field of computer science focused on creating systems that can perform tasks requiring human intelligence. This includes reasoning, learning, problem-solving, perception, and language understanding. AI includes subfields like machine learning and deep learning, which enable systems to improve performance and model complex patterns. AI is used in various applications such as virtual assistants, autonomous vehicles, medical diagnostics, and robotics, with the potential to revolutionize industries like healthcare, finance, and manufacturing. However, concerns around ethics, job displacement, and privacy have sparked discussions about the responsible development and use of AI.
+Artificial Intelligence (AI) is a computer science field focused on creating systems that can perform tasks requiring human intelligence, such as reasoning and problem-solving. It includes subfields like machine learning and deep learning, which enable systems to learn and improve over time. AI is utilized in various applications like virtual assistants and medical diagnostics, with the potential to transform industries. However, ethical, job-related, and privacy concerns have sparked discussions about the responsible development and use of AI.
