@@ -54,5 +54,6 @@ You need an OpenAI API key to use the model. You can obtain it by signing up on 
 
 ```plaintext
 Summarizing the document...
+
 Summary:
-This document discusses the implementation of an automated summarizer using OpenAI's GPT model. It covers the required dependencies, usage instructions, and key features of the script.
+Artificial Intelligence (AI) is a field of computer science focused on creating systems that can perform tasks requiring human intelligence. This includes reasoning, learning, problem-solving, perception, and language understanding. AI includes subfields like machine learning and deep learning, which enable systems to improve performance and model complex patterns. AI is used in various applications such as virtual assistants, autonomous vehicles, medical diagnostics, and robotics, with the potential to revolutionize industries like healthcare, finance, and manufacturing. However, concerns around ethics, job displacement, and privacy have sparked discussions about the responsible development and use of AI.
